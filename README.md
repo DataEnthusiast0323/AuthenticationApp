@@ -6,10 +6,5 @@ This app analyzes user-generated images of a used product. A mobile-friendly com
 
 ---
 
-## Preview
-![App Screenshot](./assets/app_preview.png)
-
----
-
 ## Try it live
 👉 [Open App](https://confidencescore.streamlit.app)
