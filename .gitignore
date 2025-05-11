@@ -1,0 +1,4 @@
+# Ignore temporary uploads and cache
+temp_uploads/
+__pycache__/
+*.pyc
